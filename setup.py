@@ -1,5 +1,6 @@
 import os
 
+# Solution Issue CLIP: https://github.com/openai/CLIP/issues/528
 # import pkg_resources
 from packaging.requirements import Requirement # new
 from setuptools import setup, find_packages
